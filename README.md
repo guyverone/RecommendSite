@@ -35,3 +35,5 @@ Pieter Abbeel, Deep Reinforcement Learning, Deep Learning Summer School, 2016;ht
 Rich Sutton, Introduction to Reinforcement Learning with Function Approximation,https://www.microsoft.com/en-us/research/video/tutorial-introduction-to-reinforcementlearning-with-function-approximation/ 
 Joelle Pineau, Introduction to Reinforcement Learning, Deep Learning Summer School, 2016; http://videolectures.net/deeplearning2016 pineau reinforcement learning/ 
 Deep Learning Summer School, 2016, 2015 
+
+https://www.reddit.com/r/MachineLearning/comments/5f8m3p/d_why_dont_more_teams_use_deep_learning_in_kaggle/
