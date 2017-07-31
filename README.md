@@ -4,6 +4,7 @@ http://sci-hub.io/<br>
 http://suanfazu.com<br>
 https://zhuanlan.zhihu.com/p/25138563<br>
 http://www.deeplearning.net/tutorial/mlp.html#mlp<br>
+http://www.deeplearningbook.org/<br>
 http://www.arxiv-sanity.com/<br>
 
 http://karpathy.github.io<br>
