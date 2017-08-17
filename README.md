@@ -38,3 +38,6 @@ Joelle Pineau, Introduction to Reinforcement Learning, Deep Learning Summer Scho
 Deep Learning Summer School, 2016, 2015 
 
 https://www.reddit.com/r/MachineLearning/comments/5f8m3p/d_why_dont_more_teams_use_deep_learning_in_kaggle/
+
+Playing Atari with Deep Reinforcement Learning:
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
