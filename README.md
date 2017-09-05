@@ -41,3 +41,5 @@ https://www.reddit.com/r/MachineLearning/comments/5f8m3p/d_why_dont_more_teams_u
 
 Playing Atari with Deep Reinforcement Learning:
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+
+https://distill.pub/
