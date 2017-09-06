@@ -43,3 +43,5 @@ Playing Atari with Deep Reinforcement Learning:
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
 https://distill.pub/
+
+http://incompleteideas.net/sutton/book/bookdraft2017june.pdf
