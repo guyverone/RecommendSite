@@ -46,4 +46,6 @@ https://distill.pub/
 
 http://incompleteideas.net/sutton/book/bookdraft2017june.pdf
 
+https://github.com/openai/gym/wiki
+
 https://github.com/off99555/machine-learning-curriculum
