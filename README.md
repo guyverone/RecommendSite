@@ -9,6 +9,7 @@ http://www.arxiv-sanity.com/<br>
 
 http://karpathy.github.io<br>
 http://colah.github.io/<br>
+http://ruder.io<br>
 
 ###BOOKS###
 The definite and intuitive reinforcement learning book by Richard S. Sutton and Andrew G. Barto (Sutton and Barto, 2017 
