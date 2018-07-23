@@ -11,6 +11,9 @@ http://karpathy.github.io<br>
 http://colah.github.io/<br>
 http://ruder.io<br>
 
+Troubleshooting Neural Net Training<br>
+https://deeplearning4j.org/troubleshootingneuralnets#rbm<br>
+
 ###BOOKS###
 The definite and intuitive reinforcement learning book by Richard S. Sutton and Andrew G. Barto (Sutton and Barto, 2017 
 Concise and theoretical, Algorithms for Reinforcement Learning by Csaba Szepesv´ari (Szepesv´ari, 2010) 
