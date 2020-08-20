@@ -57,3 +57,5 @@ https://github.com/off99555/machine-learning-curriculum
 
 https://blog.inten.to/hardware-for-deep-learning-part-3-gpu-8906c1644664
 https://people.engr.ncsu.edu/hzhou/SC-16-DNN.pdf Foucs on memory efficiency of CNNs
+
+https://mincong.io/
